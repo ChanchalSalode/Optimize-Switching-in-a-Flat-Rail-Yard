@@ -1,0 +1,50 @@
+Label: FYMP_T3_S4_O70_0
+-   -   -   -   Track 3
+1   7   6   5   Track 2
+3   0   2   4   Track 1
+
+Label: FYMP_T3_S4_O70_1
+4   1   3   6   Track 3
+-   -   -   -   Track 2
+0   2   5   7   Track 1
+
+Label: FYMP_T3_S4_O70_2
+-   -   -   -   Track 3
+4   6   5   3   Track 2
+0   2   1   7   Track 1
+
+Label: FYMP_T3_S4_O70_3
+0   7   3   6   Track 3
+-   -   -   -   Track 2
+2   4   1   5   Track 1
+
+Label: FYMP_T3_S4_O70_4
+-   -   -   -   Track 3
+4   2   5   1   Track 2
+6   7   0   3   Track 1
+
+Label: FYMP_T3_S4_O70_5
+-   -   -   -   Track 3
+3   5   2   6   Track 2
+0   1   7   4   Track 1
+
+Label: FYMP_T3_S4_O70_6
+-   -   -   -   Track 3
+0   1   3   6   Track 2
+4   2   5   7   Track 1
+
+Label: FYMP_T3_S4_O70_7
+3   4   7   6   Track 3
+1   5   0   2   Track 2
+-   -   -   -   Track 1
+
+Label: FYMP_T3_S4_O70_8
+4   7   6   5   Track 3
+2   1   0   3   Track 2
+-   -   -   -   Track 1
+
+Label: FYMP_T3_S4_O70_9
+1   4   2   7   Track 3
+6   0   3   5   Track 2
+-   -   -   -   Track 1
+
