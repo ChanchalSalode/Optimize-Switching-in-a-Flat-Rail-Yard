@@ -1,0 +1,90 @@
+Label: FYMP_T7_S4_O50_0
+-   -   -   -   Track 7
+-   -   -   -   Track 6
+-   -   5   12   Track 5
+4   9   13   10   Track 4
+11   7   3   1   Track 3
+8   0   2   6   Track 2
+-   -   -   -   Track 1
+
+Label: FYMP_T7_S4_O50_1
+9   1   8   4   Track 7
+5   10   0   13   Track 6
+-   -   6   3   Track 5
+2   11   12   7   Track 4
+-   -   -   -   Track 3
+-   -   -   -   Track 2
+-   -   -   -   Track 1
+
+Label: FYMP_T7_S4_O50_2
+-   -   -   -   Track 7
+-   -   12   5   Track 6
+-   -   -   -   Track 5
+-   -   -   -   Track 4
+6   13   11   8   Track 3
+9   2   0   1   Track 2
+3   10   7   4   Track 1
+
+Label: FYMP_T7_S4_O50_3
+10   9   7   4   Track 7
+-   -   -   -   Track 6
+-   -   -   -   Track 5
+13   12   0   5   Track 4
+8   3   1   11   Track 3
+-   -   -   -   Track 2
+-   -   2   6   Track 1
+
+Label: FYMP_T7_S4_O50_4
+-   -   -   -   Track 7
+4   1   5   13   Track 6
+2   7   8   3   Track 5
+-   -   -   -   Track 4
+-   -   -   -   Track 3
+9   0   10   11   Track 2
+-   -   12   6   Track 1
+
+Label: FYMP_T7_S4_O50_5
+-   -   -   -   Track 7
+10   12   4   3   Track 6
+-   -   13   1   Track 5
+-   -   -   -   Track 4
+8   9   5   6   Track 3
+7   2   0   11   Track 2
+-   -   -   -   Track 1
+
+Label: FYMP_T7_S4_O50_6
+1   9   0   10   Track 7
+-   -   7   13   Track 6
+-   -   -   -   Track 5
+6   3   2   11   Track 4
+-   -   -   -   Track 3
+8   12   4   5   Track 2
+-   -   -   -   Track 1
+
+Label: FYMP_T7_S4_O50_7
+-   -   -   -   Track 7
+-   -   -   -   Track 6
+12   5   3   11   Track 5
+-   -   2   9   Track 4
+0   8   1   7   Track 3
+13   6   10   4   Track 2
+-   -   -   -   Track 1
+
+Label: FYMP_T7_S4_O50_8
+-   -   -   -   Track 7
+0   5   3   10   Track 6
+-   -   7   4   Track 5
+-   -   -   -   Track 4
+1   2   13   12   Track 3
+6   8   11   9   Track 2
+-   -   -   -   Track 1
+
+Label: FYMP_T7_S4_O50_9
+6   11   10   7   Track 7
+-   -   -   -   Track 6
+-   -   2   3   Track 5
+13   9   4   1   Track 4
+5   8   12   0   Track 3
+-   -   -   -   Track 2
+-   -   -   -   Track 1
+
