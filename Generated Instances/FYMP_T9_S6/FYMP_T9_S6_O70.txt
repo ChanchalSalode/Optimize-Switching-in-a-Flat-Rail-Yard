@@ -1,0 +1,110 @@
+Label: FYMP_T9_S6_O70_0
+34   5   0   6   9   7   Track 9
+20   14   22   12   3   35   Track 8
+-   -   -   -   -   -   Track 7
+-   -   -   -   -   -   Track 6
+18   26   16   10   1   31   Track 5
+-   -   -   -   -   11   Track 4
+29   28   21   30   24   15   Track 3
+13   8   36   25   17   2   Track 2
+32   27   23   33   4   19   Track 1
+
+Label: FYMP_T9_S6_O70_1
+-   -   -   -   -   -   Track 9
+-   -   -   -   -   32   Track 8
+0   35   10   27   2   30   Track 7
+23   17   13   8   22   4   Track 6
+5   9   1   19   31   26   Track 5
+25   20   12   14   21   36   Track 4
+-   -   -   -   -   -   Track 3
+24   29   7   34   18   3   Track 2
+6   33   15   11   16   28   Track 1
+
+Label: FYMP_T9_S6_O70_2
+14   16   11   10   13   22   Track 9
+-   -   -   -   -   -   Track 8
+15   4   31   19   27   36   Track 7
+12   20   9   29   35   34   Track 6
+7   8   26   28   3   18   Track 5
+5   1   24   33   30   25   Track 4
+23   6   17   2   32   0   Track 3
+-   -   -   -   -   21   Track 2
+-   -   -   -   -   -   Track 1
+
+Label: FYMP_T9_S6_O70_3
+25   28   7   1   13   11   Track 9
+-   -   -   -   -   27   Track 8
+23   19   15   31   0   4   Track 7
+29   20   26   8   9   36   Track 6
+33   32   17   5   18   14   Track 5
+34   6   16   30   12   2   Track 4
+35   3   22   24   10   21   Track 3
+-   -   -   -   -   -   Track 2
+-   -   -   -   -   -   Track 1
+
+Label: FYMP_T9_S6_O70_4
+17   2   18   15   27   1   Track 9
+-   -   -   -   -   -   Track 8
+-   -   -   -   -   -   Track 7
+8   9   35   5   34   33   Track 6
+26   0   24   6   14   32   Track 5
+20   10   11   19   7   22   Track 4
+21   23   13   3   4   29   Track 3
+-   -   -   -   -   31   Track 2
+36   16   30   12   28   25   Track 1
+
+Label: FYMP_T9_S6_O70_5
+-   -   -   -   -   7   Track 9
+28   13   34   17   32   22   Track 8
+23   29   31   20   0   10   Track 7
+1   36   3   15   14   11   Track 6
+-   -   -   -   -   -   Track 5
+-   -   -   -   -   -   Track 4
+2   24   16   19   12   18   Track 3
+5   4   8   30   27   33   Track 2
+26   35   25   9   21   6   Track 1
+
+Label: FYMP_T9_S6_O70_6
+12   23   4   25   6   34   Track 9
+3   32   24   29   15   33   Track 8
+2   21   1   9   5   35   Track 7
+0   22   13   10   19   26   Track 6
+-   -   -   -   -   -   Track 5
+27   11   28   20   17   14   Track 4
+-   -   -   -   -   -   Track 3
+-   -   -   -   -   30   Track 2
+18   16   31   7   8   36   Track 1
+
+Label: FYMP_T9_S6_O70_7
+13   19   6   17   23   32   Track 9
+20   0   24   10   9   2   Track 8
+26   5   16   7   18   3   Track 7
+25   35   14   4   30   36   Track 6
+8   31   27   28   29   21   Track 5
+-   -   -   -   -   34   Track 4
+-   -   -   -   -   -   Track 3
+-   -   -   -   -   -   Track 2
+22   15   33   12   1   11   Track 1
+
+Label: FYMP_T9_S6_O70_8
+-   -   -   -   -   -   Track 9
+9   36   16   1   27   13   Track 8
+11   18   22   34   12   23   Track 7
+28   26   5   2   6   15   Track 6
+21   0   14   4   35   3   Track 5
+24   33   7   8   25   30   Track 4
+-   -   -   -   -   -   Track 3
+29   19   32   17   10   31   Track 2
+-   -   -   -   -   20   Track 1
+
+Label: FYMP_T9_S6_O70_9
+17   36   10   1   18   2   Track 9
+-   -   -   -   -   -   Track 8
+3   33   7   4   34   0   Track 7
+-   -   -   -   -   24   Track 6
+12   29   35   5   9   22   Track 5
+-   -   -   -   -   -   Track 4
+25   19   27   31   15   21   Track 3
+20   32   13   30   28   16   Track 2
+14   11   8   26   23   6   Track 1
+
